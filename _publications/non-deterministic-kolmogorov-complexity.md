@@ -3,11 +3,7 @@ title: "Synergies Between Complexity Theory and Nondeterministic Kolmogorov Comp
 collection: publications
 category: preprints
 permalink: /publication/non-deterministic-kolmogorov-complexity
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'We investigate central questions in complexity theory through the lens of time-bounded Kolmogorov complexity, focusing on nondeterministic measures and their extensions. We investigate central questions in complexity theory through the lens of time-bounded Kolmogorov complexity, focusing on their extended notions in nondeterministic or randomized settings, for example, nK,rnK and pnK. We proved super-polynomial unconditional lower bounds for nK and rnK. We investigated Symmetry of Information (SoI) property on pnK, showed a gap between the average-case SoI and worst-case SoI which relates closely to the substantial NP vs. coAM problem. Generalizing the nondeterministic notions to higher levels of polynomial hierarchy, we showed that investigating the complexity of approximating the complexity measure in different parameter settings is necessary to understand average-case easiness of PH.'
 date: 2025-11-04
-venue: 'GitHub Journal of Bugs'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
