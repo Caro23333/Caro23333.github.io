@@ -4,7 +4,7 @@ collection: publications
 category: preprints
 permalink: /publication/non-deterministic-kolmogorov-complexity
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2025-11
+date: 2025-11-04
 venue: 'GitHub Journal of Bugs'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
