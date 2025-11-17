@@ -33,15 +33,15 @@ I also collaborated with another classmate and completed a CPU-based path tracin
   margin:1em 0;
 ">
   
-  <figure style="display:block; margin: 1em 0; clear: both;">
-    <img src="/assets/heavy_fog.jpg">
+  <figure style="flex:1; margin:0;">
+    <img src="/assets/heavy_fog.jpg" style="width:100%; display:block;">
     <figcaption style="text-align:center; margin-top:0.5em; color:#999;">
       Volumetric fog
     </figcaption>
   </figure>
 
-  <figure style="display:block; margin: 1em 0; clear: both;">
-    <img src="/assets/my_scene.jpg">
+  <figure style="flex:1; margin:0;">
+    <img src="/assets/my_scene.jpg" style="width:100%; display:block;">
     <figcaption style="text-align:center; margin-top:0.5em; color:#999;">
       Customized scene, model assets from https://www.aplaybox.com/
     </figcaption>
