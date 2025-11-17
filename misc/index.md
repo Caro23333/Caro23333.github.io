@@ -13,7 +13,7 @@ I was fortunate to intern remotely at UC San Diego under supervision of [Prof. H
     <source src="/assets/output5.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  <figcaption style="text-align:center; font-size:0.9em; color:#666; margin-top:0.5em;">
+  <figcaption style="text-align:center; font-size:0.9em; color:#999; margin-top:0.5em;">
     Demo: twisting elastic tape
   </figcaption>
 </figure>
@@ -23,4 +23,31 @@ I also collaborated with another classmate and completed a CPU-based path tracin
 
 ![Volumetric fog](/assets/heavy_fog.jpg) ![Customized scene, model assets from [https://www.aplaybox.com/](https://www.aplaybox.com/)](/assets/my_scene.jpg)
 
-<!-- <img src="/images/lake.jpg" alt="lake" width="400"> -->
+<div style="
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:space-between;
+  gap:20px;
+  margin:1em 0;
+">
+  
+  <figure style="flex:1; margin:0;">
+    <video width="100%" controls>
+      <img src=/assets/heavy_fog.jpg">
+    </video>
+    <figcaption style="text-align:center; margin-top:0.5em; color:#999;">
+      Volumetric fog
+    </figcaption>
+  </figure>
+
+  <figure style="flex:1; margin:0;">
+    <video width="100%" controls>
+      <img src=/assets/my_scene.jpg">
+    </video>
+    <figcaption style="text-align:center; margin-top:0.5em; color:#999;">
+      Customized scene, model assets from https://www.aplaybox.com/
+    </figcaption>
+  </figure>
+
+</div>
+
