@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mainpage.jpg"
   name             : "Jingyi Lyu"
   pronouns         : "he/his" # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
-  location         : "Ann Arbor, MI, United State / Beijing, China"
+  location         : "Ann Arbor, MI, United State"
   employer         : "University of Michigan, Ann Arbor"
   # uri              : # URL
   # email            : "none@example.org" 
